@@ -1,0 +1,51 @@
+.bg-pink {
+  background-color: rgb(243, 137, 217);
+}
+.bg-blue {
+  background-color: rgb(238, 107, 199);
+}
+
+#about {
+  background-color: rgb(7, 7, 7);
+  color: black;
+}
+#skills {
+  background-color: orchid;
+}
+
+#education {
+  background-color: rgb(190, 24, 182);
+}
+
+.card-body {
+  background-color: pink;
+}
+
+.testimonial-heading {
+  text-align: center;
+  color: rgb(20, 20, 20);
+}
+.testimonial-desc {
+  text-align: center;
+  color: rgb(17, 17, 17);
+}
+.testimonial-year {
+  text-align: center;
+  color: rgb(31, 30, 31);
+}
+/* Footer */
+.footer {
+  background-color: #080808;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  margin: 0 10px;
+}
